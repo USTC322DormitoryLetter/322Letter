@@ -8,13 +8,13 @@
 此次联名信联署活动是由从6月底开始持续关注322宿舍问题并积极通过各种渠道积极与各方沟通的一群科大学生发起的，目前人数已有170余人。相关信息可以通过科大17级各个院系的学生得到确认。
 
 ## 联名信在哪里可以看到
-在此仓库下提供联名信的[txt](https://github.com/USTC322DormitoryLetter/322Letter/blob/master/%E5%85%B3%E4%BA%8E%E6%90%AC%E8%BF%81322%E6%A5%BC%E4%B8%80%E4%BA%8B%E8%87%B4%E6%A0%A1%E9%A2%86%E5%AF%BC%E7%9A%84%E8%81%94%E5%90%8D%E4%BF%A1.txt)和[pdf](https://github.com/USTC322DormitoryLetter/322Letter/blob/master/%E5%85%B3%E4%BA%8ED322%E6%90%AC%E8%BF%81%E4%B8%80%E4%BA%8B%E8%87%B4%E6%A0%A1%E9%A2%86%E5%AF%BC%E7%9A%84%E8%81%94%E5%90%8D%E4%BF%A1.pdf)两种格式，txt版本为方便在线查看，联名信内容以pdf版本为准，pdf版联名信校验码如下
+在此仓库下提供联名信的[txt](https://github.com/USTC322DormitoryLetter/322Letter/blob/master/%E5%85%B3%E4%BA%8E%E6%90%AC%E8%BF%81322%E6%A5%BC%E4%B8%80%E4%BA%8B%E8%87%B4%E6%A0%A1%E9%A2%86%E5%AF%BC%E7%9A%84%E8%81%94%E5%90%8D%E4%BF%A1.txt)和[pdf](https://github.com/USTC322DormitoryLetter/322Letter/releases/download/2019%2F8%2F4/322.pdf)两种格式，txt版本为方便在线查看，联名信内容以pdf版本为准，pdf版联名信校验码如下
 - MD5: 4a903a1915bf0aec80b4ce84330032e7
 - SHA-256: e477e99d126949968252a47139acb9798fbcdc58ff7229774b69eca1a4094238
 - SHA-512: 8bf10ddce15345837ec1f39efbd03125d4ef66f65c277e0bc48044106c38faae1495a23f5fb347ca2d6143e859d472fd01415d773e908535aefc04bcaac847a6
 
 ## 我应该如何参与联署
-具体方法请参见本仓库下的“[联名信签名提交方法.pdf](https://github.com/USTC322DormitoryLetter/322Letter/blob/master/%E8%81%94%E5%90%8D%E4%BF%A1%E7%AD%BE%E5%90%8D%E6%8F%90%E4%BA%A4%E6%96%B9%E6%B3%95.pdf)”以及对应的[txt文件](https://github.com/USTC322DormitoryLetter/322Letter/blob/master/%E8%81%94%E5%90%8D%E4%BF%A1%E7%AD%BE%E5%90%8D%E6%8F%90%E4%BA%A4%E6%96%B9%E6%B3%95.txt)，在此我们简述如下
+具体方法请参见本仓库下的“[联名信签名提交方法.pdf](https://github.com/USTC322DormitoryLetter/322Letter/releases/download/2019%2F8%2F4/default.pdf)”以及对应的[txt文件](https://github.com/USTC322DormitoryLetter/322Letter/blob/master/%E8%81%94%E5%90%8D%E4%BF%A1%E7%AD%BE%E5%90%8D%E6%8F%90%E4%BA%A4%E6%96%B9%E6%B3%95.txt)，在此我们简述如下
 
 请使用校内邮箱（以便确认签名者为科大校友，非科大校友的热心人士也可以使用其他邮箱提交）编辑邮件发送到我们的邮箱 qianming322 # qq.com (请将“[空格]#[空格]”替换为@)
 
